@@ -7,6 +7,12 @@ editor: visual
 
 **A comparison of bulk stool and FTA card stool sampling methods in terms of bacterial diversity**
 
+[Abstract]{.underline}
+
+This project examines the human gut microbiome, which is influenced by a person's diet, delivery mode, geography, and food supply, to name a few. FTA cards and bulk stool samples are two methods used to analyze the bacterial make up of the microbiome; however, it has not been tested whether FTA cards have an effect on bacterial diversity in samples. The stool samples of seven participants were taken using both methods, and then sequenced using 16S rRNA gene sequencing. The data was analyzed in R in terms of bacterial diversity by phyla. Multiple graphs were created to show the different sampling methods' bacterial makeup, as well as statistical results. It was found that there is a statistical difference between the FTA cards and bulk stool sample methods in terms of bacterial diversity. 
+
+
+
 [Introduction]{.underline}
 
 The human gut microbiome contains a multitude of different microbes, especially bacteria. The diversity of gut bacteria varies from person to person, and is affected by many factors, such as delivery mode (whether a person was born via cesarian section or vaginal birth), infant feeding method (breast milk or formula), diet, geography, food supply, stress, and antibiotics (Cresci and Bawden, 2016). Stool samples are typically used for analyzing the gut microbiome with gene sequencing. Stool samples are typically collected with the bulk stool sample method, which requires immediate freezing. However, this method is not feasible for hard-to-reach populations, such as people who live in more rural areas. Bulk stool also cannot be mailed, since the samples must be processed within 24 hours, or as soon as possible. Fast technology for analysis of nucleic acids (FTA) cards are a newer and alternative method. A chemical on the cards fixes the bacteria and allows them to be stored at room temperature. FTA cards have the potential to make stool sample collection easier for researchers to process, as well as allow for more gut microbiome research to be done in harder to reach populations.
